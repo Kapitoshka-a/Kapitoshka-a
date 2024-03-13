@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapitoshka-a
 - 👀 I’m interested in developing with python
-- 🌱 I’m currently learning Python and its framework Django
+- 🌱 I’m currently learning Python and its framework Django REST
 - 💞️ I’m looking to collaborate on bulding interesting websites
 - 📫 You can reach me using taraspanechko737@gmail.com
 
